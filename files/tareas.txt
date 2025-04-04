@@ -1,0 +1,5 @@
+1,Comprar víveres,Ir al supermercado a comprar frutas y verduras,PENDIENTE
+2,Llamar al médico,Pedir cita para revisión anual,PENDIENTE
+3,Estudiar Java,Repasar conceptos para la certificación 1Z0-829,PENDIENTE
+4,Limpiar la casa,Ordenar habitación y sala,PENDIENTE
+5,Enviar informe,Redactar y enviar el informe mensual al jefe,PENDIENTE
